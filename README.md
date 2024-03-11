@@ -8,6 +8,8 @@
  
 Nesse Commit irei colocar alguns comandos do github :warning: :shipit:
 
+# 🖥️ Funções dos comandos do GitHub 🖥️
+
 - `Git clone`: Git clone é uma comando para baixar o código-fonte existente de um repositório remoto (como, por exemplo, o Github). Em outras palavras, git clone.
 
  - ` Git branch`: Branches (algo como ramificações, em português) com esse comando, vários desenvolvedores conseguem trabalhar em paralelo no mesmo projeto simultaneamente. Podemos usar o comando git branch para criar, listar e excluir as branches.
